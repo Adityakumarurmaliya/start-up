@@ -1,0 +1,11 @@
+  =>  Template Name    : Startup - Startup Website Template
+
+  =>  Template Link    : #/startup-website-template
+
+  =>  Template License : #/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : AdityaUrmaliya
+
+  =>  Author Website   : #
+
+  =>  About AdityaUrmaliya : AdityaUrmaliya is one of the top creators and publishers of , HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( #/about-us )
