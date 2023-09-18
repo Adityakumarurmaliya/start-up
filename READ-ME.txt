@@ -1,4 +1,4 @@
-  =>  Template Name    : Startup - Startup Website Template
+  =>  Template Name    : Ioready
 
   =>  Template Link    : #/startup-website-template
 
